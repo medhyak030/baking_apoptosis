@@ -6,18 +6,13 @@
 ### Central theme of the project:
 Apoptosis is governed by an integrated regulatory architecture.
 This project maps that architecture and identifies the major control levers through which ligand-based modulation could, in principle, influence cell fate.
-[ Ligand design space ]
-        ↓
-[ Receptor & interface constraints ]
-        ↓
-[ Genetic & sequence limits ]
-        ↓
-[ Signaling assembly thresholds ]
-        ↓
-[ Telomerase / cellular state bias ]
-        ↓
-[ Caspase execution commitment ]
 
+Ligand design space<
+Receptor & interface constraints<
+Genetic & sequence limits<
+Signaling assembly thresholds<
+Telomerase / cellular state bias<
+Caspase execution commitment<
 
 
 ### Why this project?
