@@ -28,7 +28,7 @@ TRAIL interacts with two major receptor classes.
 Activation promotes(jist):
 
 TRAIL → DISC formation → Caspase activation → Apoptosis 
-Final outcome: Death of the cell
+- Final outcome: Death of the cell.
 
 ### Decoy Receptors
 
@@ -43,7 +43,7 @@ Characteristics:
 Activation is associated with:
 
 No productive DISC formation → NF-κB activation → Survival-associated gene expression
-Final outcome: survival strategic
+- Final outcome: Strategic survival.
 
 
 ## Initial Understanding
