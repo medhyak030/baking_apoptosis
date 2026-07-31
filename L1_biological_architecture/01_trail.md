@@ -45,6 +45,20 @@ Activation is associated with:
 No productive DISC formation → NF-κB activation → Survival-associated gene expression
 - Final outcome: Strategic survival.
 
+## Modes of TRAIL Signalling
+TRAIL exists in two biologically relevant forms.
+
+### Membrane-bound TRAIL
+- Expressed primarily by immune cells (NK cells, T cells, macrophages and dendritic cells).
+- Anchored as a Type II transmembrane protein.
+- Mediates direct cell-to-cell (juxtacrine) signalling.
+
+### Soluble TRAIL
+- Generated following proteolytic cleavage of the extracellular domain.
+- Diffuses through extracellular fluid and blood.
+- Mediates paracrine and endocrine signalling.
+
+TRAIL signalling therefore operates through structured cellular communication rather than random diffusion.
 
 ## Initial Understanding
 

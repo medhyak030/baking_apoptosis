@@ -136,6 +136,8 @@ This led to one of the central concepts of the project:
 
 > **The cell is the gatekeeper; TRAIL is the messenger.**
 
+The receptor landscape therefore represents the first level of cellular gatekeeping before downstream signalling is initiated.
+
 ## References
 
 1. Kimberley FC, Screaton GR. *Following a TRAIL: Update on a ligand and its five receptors.* Cell Research. 2004;14(5):359–372. https://doi.org/10.1038/sj.cr.7290236
