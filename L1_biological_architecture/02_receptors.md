@@ -75,7 +75,7 @@ Current understanding:
 - Represents a point of communication between apoptotic and survival signalling pathways.
 
 
-## Regulation by p53
+### Regulation by p53
 Found a contradiction:
 If p53 promotes apoptosis, why does it also increase decoy receptor expression?
 
@@ -92,6 +92,16 @@ Current interpretation:
 - Apoptotic commitment becomes irreversible.
 
 Therefore, p53 functions as a genome-protection controller rather than a simple apoptotic switch.
+
+### What is TRA8?
+TRA8 is a monoclonal antibody which might basically antagonize the DR5 in case of synovial fibroblasts.
+
+- TRAIL itself does not decide where it binds.
+TRA8 is a monoclonal antibody that:
+⦁binds DR5
+⦁induces clustering
+⦁forces apoptotic signaling even when the cell normally resists
+So TRA8 is a designed perturbation of the control system — a perfect example of conceptual ligand modulation in action.
 
 ### Regulatory Model
 The observations collected during this stage suggest that apoptotic outcome is determined through dynamic interactions between extracellular ligand availability and intracellular regulatory mechanisms.
