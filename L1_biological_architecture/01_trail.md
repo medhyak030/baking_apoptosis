@@ -1,4 +1,4 @@
-# 01 — TRAIL: The starting clue
+# 01 TRAIL: The starting clue
 
 ## Research Question
 
@@ -16,11 +16,11 @@ Structurally, TRAIL is a Type II transmembrane protein consisting of:
 - Functional homotrimer required for receptor activation
 
 
-## Receptor System
+### Receptor System
 
 TRAIL interacts with two major receptor classes.
 
-## Death Receptors
+### Death Receptors
 
 - DR4 (TRAIL-R1)
 - DR5 (TRAIL-R2)
@@ -30,7 +30,7 @@ Activation promotes(jist):
 TRAIL → DISC formation → Caspase activation → Apoptosis 
 Final outcome: Death of the cell
 
-## Decoy Receptors
+### Decoy Receptors
 
 - DcR1 (TRAIL-R3)
 - DcR2 (TRAIL-R4)
@@ -46,7 +46,7 @@ No productive DISC formation → NF-κB activation → Survival-associated gene 
 Final outcome: survival strategic
 
 
-### Initial Understanding
+## Initial Understanding
 
 At this stage, TRAIL appears capable of producing both apoptotic and survival outcomes depending on the receptor system that becomes engaged.
 
@@ -59,7 +59,7 @@ However, this immediately raises several questions.
 
 ---
 
-## Open Questions
+### Open Questions
 
 1. How does TRAIL “decide” which receptor to activate and therefore which cellular outcome, apoptosis or survival — will occur?
 2. What determines whether DR4/DR5 or DcR1/DcR2 dominate signalling? What is the deciding factor?
