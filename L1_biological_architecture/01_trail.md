@@ -57,7 +57,6 @@ At this stage, TRAIL appears capable of producing both apoptotic and survival ou
 
 However, this immediately raises several questions.
 
----
 
 ### Open Questions
 
@@ -67,7 +66,6 @@ However, this immediately raises several questions.
 4. How does TRAIL physically encounter these receptors and where exactly are they located?
 5. Is the ligand making the decision, or is the cellular environment determining the outcome?
 
----
 
 ## Working Hypothesis
 The signalling outcome is unlikely to be determined by TRAIL alone. Instead, cellular context and receptor availability may bias signalling toward apoptosis or survival.
