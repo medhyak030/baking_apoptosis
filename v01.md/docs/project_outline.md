@@ -1,23 +1,9 @@
-### Motto:
-What is the regulatory architecture of apoptosis, and how can that architecture be conceptually modulated at the level of ligands, sequence, and signalling checkpoints?
+# Version 1 — Biological Data
 
-### Roadmap:
-The objective is to understand apoptosis as a regulatory architecture before introducing computational modelling or design principles.
+### Motto
+To establish a rigorous biological framework for understanding TRAIL-mediated apoptosis by systematically investigating the molecular architecture, regulatory mechanisms, and signalling logic governing cellular life–death decisions.
 
-### Layer 1 — Biological Architecture
-Study the biological framework of TRAIL-mediated apoptosis, receptor systems, signalling logic, receptor clustering, and cellular decision-making.
+### Objective
+Version 1 focuses on developing the biological foundation of the project through structured literature review, critical analysis, and hypothesis generation.
 
-### Layer 2 — Genetic & Sequence Constraints
-Investigate sequence conservation, functional domains, evolutionary constraints, and the influence of genetic variation on receptor behaviour.
-
-### Layer 3 — Structural Biology
-Analyse three-dimensional protein structures, ligand–receptor interfaces, receptor organisation, and structural determinants of signalling.
-
-### Layer 4 — Network Biology
-Expand from individual receptors to signalling networks by examining DISC formation, caspases, regulatory proteins, and pathway interactions.
-
-### Layer 5 — Systems Biology
-Integrate apoptosis with broader cellular processes including telomere biology, DNA damage responses, metabolism, and cellular state.
-
-### Layer 6 — Design Framework
-Apply the knowledge from previous layers to explore conceptual strategies for modulating apoptosis through ligands, receptors, sequence variation, and computational approaches.
+Rather than collecting isolated biological facts, the objective is to construct an integrated conceptual model explaining how ligand–receptor interactions, receptor architecture, signalling pathways, and regulatory mechanisms collectively determine apoptotic outcomes.

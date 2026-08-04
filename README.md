@@ -33,4 +33,22 @@ I think telomerase could change certain things;
 These are a thread of statements I encountered initially when I developed an interest in the apoptopic pathway. Learning about the whole architecture and activations it takes for a cell to decide it's fate intrigued me to question further.
 
 
+## Layers wrt versions
 
+### Layer 1 — Biological Architecture
+Study the biological framework of TRAIL-mediated apoptosis, receptor systems, signalling logic, receptor clustering, and cellular decision-making.
+
+### Layer 2 — Genetic & Sequence Constraints
+Investigate sequence conservation, functional domains, evolutionary constraints, and the influence of genetic variation on receptor behaviour.
+
+### Layer 3 — Structural Biology
+Analyse three-dimensional protein structures, ligand–receptor interfaces, receptor organisation, and structural determinants of signalling.
+
+### Layer 4 — Network Biology
+Expand from individual receptors to signalling networks by examining DISC formation, caspases, regulatory proteins, and pathway interactions.
+
+### Layer 5 — Systems Biology
+Integrate apoptosis with broader cellular processes including telomere biology, DNA damage responses, metabolism, and cellular state.
+
+### Layer 6 — Design Framework
+Apply the knowledge from previous layers to explore conceptual strategies for modulating apoptosis through ligands, receptors, sequence variation, and computational approaches.
