@@ -27,7 +27,7 @@ import requests #to communicate w websites
 csv_file = "data/metadata/proteins.csv"
 
 with open(csv_file, "r") as file:
-    reader = csv.DictReader(file)
+    reader = csv.DictReader(file) #python reads our csv 
 
     for row in reader:
         gene = row["Gene"]
