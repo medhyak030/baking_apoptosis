@@ -1,0 +1,4 @@
+Gene,Protein,Species,Taxon_ID,UniProt_Query,Folder,Priority
+TNFRSF10A,DR4,Homo sapiens,9606,TNFRSF10A,Homo_sapiens,1
+TNFRSF10A,DR4,Pan troglodytes,9598,TNFRSF10A,Pan_troglodytes,1
+TNFRSF10A,DR4,Mus musculus,10090,TNFRSF10A,Mus_musculus,1
