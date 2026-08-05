@@ -1,5 +1,5 @@
 """
-Script: 01_download_sequences.py
+Script: 01_retrieve_sequences.py
 
 Layer:
 Layer 2 → Sequence Retrieval
@@ -63,10 +63,23 @@ print("Response length:", len(response.text))
 print("First 300 characters:")
 # print(response.text[:300]) #plain text response
 data = response.json() #converts JSON response to a Python dictionary
-print(data.keys())
-(print(len(data["results"]))) #print the number of results
-first_protein = data["results"][0] #first result from uniprot
-print(first_protein.keys())
-print(first_protein["primaryAccession"])
-print(first_protein["entryType"])
-print(first_protein["organism"]["scientificName"])
+results = data["results"]
+output_file = "data/metadata/retrieved_proteins.csv" #tells python sab isme jayega
+#first_protein = data["results"][0] #first result from uniprot
+selected = None
+for protein in results:
+    organism = protein["organism"]["scientificName"]
+    entry = protein["entryType"]
+
+    if organism == species and "reviewed" in entry:
+        selected = protein
+        break
+    
+print(f"Found {len(results)} matching proteins")
+print(len(data["results"]))
+
+for protein in results:
+    print(protein["primaryAccession"])
+    print(protein["organism"]["scientificName"])
+    print(protein["entryType"])
+    print("-" * 50)
