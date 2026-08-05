@@ -61,4 +61,12 @@ print("Status:", response.status_code)
 print("Content-Type:", response.headers.get("Content-Type"))
 print("Response length:", len(response.text))
 print("First 300 characters:")
-print(repr(response.text[:300]))
+# print(response.text[:300]) #plain text response
+data = response.json() #converts JSON response to a Python dictionary
+print(data.keys())
+(print(len(data["results"]))) #print the number of results
+first_protein = data["results"][0] #first result from uniprot
+print(first_protein.keys())
+print(first_protein["primaryAccession"])
+print(first_protein["entryType"])
+print(first_protein["organism"]["scientificName"])
