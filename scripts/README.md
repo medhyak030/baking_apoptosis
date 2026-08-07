@@ -16,8 +16,27 @@ Output:
 Protein FASTA sequences stored in `data/raw/`.
 
 Script:
-`01_download_sequences.py`
+`01_retrieve_sequence.py & 02_download_sequence.py`
 
+### Workflow
+
+- Read metadata
+- Query UniProt
+- Identify the correct protein
+- Extract the Primary Accession
+- Construct the FASTA download URL
+- Download FASTA sequence
+- Create species-specific folders if required
+- Save FASTA files automatically
+
+### Output
+
+```
+data/
+└── raw/
+    ├── Homo_sapiens/
+    ├── Mus_musculus/
+    └── Pan_troglodytes/
 ---
 
 Stage 2 — Sequence Validation
