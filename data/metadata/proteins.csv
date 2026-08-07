@@ -1,4 +1,23 @@
-Gene,Protein,Species,Taxon_ID,UniProt_Query,Folder,Priority
-TNFRSF10A,DR4,Homo sapiens,9606,TNFRSF10A,Homo_sapiens,1
-TNFRSF10A,DR4,Pan troglodytes,9598,TNFRSF10A,Pan_troglodytes,1
-TNFRSF10A,DR4,Mus musculus,10090,TNFRSF10A,Mus_musculus,1
+Gene,Protein,Species,Taxon_ID,Folder,Priority
+
+
+
+TNFRSF10A,DR4,Homo sapiens,9606,Homo_sapiens,1
+TNFRSF10B,DR5,Homo sapiens,9606,Homo_sapiens,1
+TNFRSF10C,DCR1,Homo sapiens,9606,Homo_sapiens,1
+TNFRSF10D,DCR2,Homo sapiens,9606,Homo_sapiens,1
+TNFRSF11B,OPG,Homo sapiens,9606,Homo_sapiens,1
+
+
+TNFRSF10A,DR4,Pan troglodytes,9598,Pan_troglodytes,1
+TNFRSF10B,DR5,Pan troglodytes,9598,Pan_troglodytes,1
+TNFRSF10C,DCR1,Pan troglodytes,9598,Pan_troglodytes,1
+TNFRSF10D,DCR2,Pan troglodytes,9598,Pan_troglodytes,1
+TNFRSF11B,OPG,Pan troglodytes,9598,Pan_troglodytes,1
+
+
+TNFRSF10A,DR4,Mus musculus,10090,Mus_musculus,1
+TNFRSF10B,DR5,Mus musculus,10090,Mus_musculus,1
+TNFRSF10C,DCR1,Mus musculus,10090,Mus_musculus,1
+TNFRSF10D,DCR2,Mus musculus,10090,Mus_musculus,1
+TNFRSF11B,OPG,Mus musculus,10090,Mus_musculus,1
