@@ -1,0 +1,54 @@
+Gene,Protein,Species,Taxon_ID,Accession,Feature,Description,Start,End
+TNFRSF10A,DR4,Homo sapiens,9606,O00220,Topological domain,Extracellular,24,239
+TNFRSF10A,DR4,Homo sapiens,9606,O00220,Transmembrane,Helical,240,262
+TNFRSF10A,DR4,Homo sapiens,9606,O00220,Topological domain,Cytoplasmic,263,468
+TNFRSF10A,DR4,Homo sapiens,9606,O00220,Domain,Death,365,448
+TNFRSF10A,DR4,Homo sapiens,9606,O00220,Region,Disordered,17,82
+TNFRSF10B,DR5,Homo sapiens,9606,O14763,Topological domain,Extracellular,56,210
+TNFRSF10B,DR5,Homo sapiens,9606,O14763,Transmembrane,Helical,211,231
+TNFRSF10B,DR5,Homo sapiens,9606,O14763,Topological domain,Cytoplasmic,232,440
+TNFRSF10B,DR5,Homo sapiens,9606,O14763,Domain,Death,339,422
+TNFRSF10B,DR5,Homo sapiens,9606,O14763,Region,Disordered,1,32
+TNFRSF10B,DR5,Homo sapiens,9606,O14763,Region,Disordered,60,84
+TNFRSF10C,DCR1,Homo sapiens,9606,O14798,Region,Disordered,30,56
+TNFRSF10C,DCR1,Homo sapiens,9606,O14798,Region,Disordered,160,224
+TNFRSF10D,DCR2,Homo sapiens,9606,Q9UBN6,Topological domain,Extracellular,56,211
+TNFRSF10D,DCR2,Homo sapiens,9606,Q9UBN6,Transmembrane,Helical,212,232
+TNFRSF10D,DCR2,Homo sapiens,9606,Q9UBN6,Topological domain,Cytoplasmic,233,386
+TNFRSF10D,DCR2,Homo sapiens,9606,Q9UBN6,Domain,Death; truncated,340,366
+TNFRSF10D,DCR2,Homo sapiens,9606,Q9UBN6,Region,Disordered,1,25
+TNFRSF10D,DCR2,Homo sapiens,9606,Q9UBN6,Region,Disordered,62,90
+TNFRSF11B,OPG,Homo sapiens,9606,O00300,Domain,Death 1,198,269
+TNFRSF11B,OPG,Homo sapiens,9606,O00300,Domain,Death 2,270,365
+TNFRSF10A,DR4,Pan troglodytes,9598,A0A2I3RUZ2,Transmembrane,Helical,240,261
+TNFRSF10A,DR4,Pan troglodytes,9598,A0A2I3RUZ2,Domain,TNFR-Cys,147,188
+TNFRSF10A,DR4,Pan troglodytes,9598,A0A2I3RUZ2,Domain,TNFR-Cys,189,229
+TNFRSF10A,DR4,Pan troglodytes,9598,A0A2I3RUZ2,Domain,Death,380,449
+TNFRSF10A,DR4,Pan troglodytes,9598,A0A2I3RUZ2,Region,Disordered,1,83
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Transmembrane,Helical,38,56
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Transmembrane,Helical,211,236
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Domain,TNFR-Cys,96,137
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Domain,TNFR-Cys,138,178
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Domain,Death,352,421
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Region,Disordered,1,30
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Region,Disordered,62,84
+TNFRSF10B,DR5,Pan troglodytes,9598,A0A2I3S7P9,Region,Disordered,282,322
+TNFRSF10C,DCR1,Pan troglodytes,9598,H2QVV9,Transmembrane,Helical,279,298
+TNFRSF10C,DCR1,Pan troglodytes,9598,H2QVV9,Domain,TNFR-Cys,108,149
+TNFRSF10C,DCR1,Pan troglodytes,9598,H2QVV9,Domain,TNFR-Cys,150,189
+TNFRSF10C,DCR1,Pan troglodytes,9598,H2QVV9,Region,Disordered,1,39
+TNFRSF10C,DCR1,Pan troglodytes,9598,H2QVV9,Region,Disordered,200,276
+TNFRSF10D,DCR2,Pan troglodytes,9598,K7BMS0,Transmembrane,Helical,210,232
+TNFRSF10D,DCR2,Pan troglodytes,9598,K7BMS0,Domain,TNFR-Cys,98,139
+TNFRSF10D,DCR2,Pan troglodytes,9598,K7BMS0,Domain,TNFR-Cys,140,180
+TNFRSF10D,DCR2,Pan troglodytes,9598,K7BMS0,Region,Disordered,1,27
+TNFRSF10D,DCR2,Pan troglodytes,9598,K7BMS0,Region,Disordered,62,88
+TNFRSF11B,OPG,Pan troglodytes,9598,H2QWM3,Domain,TNFR-Cys,91,132
+TNFRSF11B,OPG,Pan troglodytes,9598,H2QWM3,Domain,TNFR-Cys,133,169
+TNFRSF10B,DR5,Mus musculus,10090,Q9QZM4,Topological domain,Extracellular,53,180
+TNFRSF10B,DR5,Mus musculus,10090,Q9QZM4,Transmembrane,Helical,181,201
+TNFRSF10B,DR5,Mus musculus,10090,Q9QZM4,Topological domain,Cytoplasmic,202,381
+TNFRSF10B,DR5,Mus musculus,10090,Q9QZM4,Domain,Death,273,356
+TNFRSF10B,DR5,Mus musculus,10090,Q9QZM4,Region,Disordered,228,260
+TNFRSF11B,OPG,Mus musculus,10090,O08712,Domain,Death 1,198,269
+TNFRSF11B,OPG,Mus musculus,10090,O08712,Domain,Death 2,283,365
