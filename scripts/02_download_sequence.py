@@ -33,11 +33,12 @@ with open(csv_file, "r") as file:
 
     for row in reader:
         gene = row["Gene"]
+        query_gene = row["Query_Gene"]
         protein = row["Protein"]
         species = row["Species"]
         taxon = row["Taxon_ID"]
         folder = row["Folder"]
-        query = f"gene_exact:{gene} AND organism_id:{taxon}"
+        query = f"gene_exact:{query_gene} AND organism_id:{taxon}"
         print(gene, species)
 
         params = { #python to uniprot: search this protein return JSON

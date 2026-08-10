@@ -31,6 +31,7 @@ with open(csv_file, "r") as file:
 
     for row in reader:
         gene = row["Gene"]
+        query_gene = row["Query_Gene"]
         protein = row["Protein"]
         species = row["Species"]
         folder = row["Folder"]

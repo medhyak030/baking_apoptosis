@@ -1,23 +1,23 @@
-Gene,Protein,Species,Taxon_ID,Folder,Priority
+Gene,Protein,Species,Taxon_ID,Folder,Priority,Query_Gene
 
 
 
-TNFRSF10A,DR4,Homo sapiens,9606,Homo_sapiens,1
-TNFRSF10B,DR5,Homo sapiens,9606,Homo_sapiens,1
-TNFRSF10C,DCR1,Homo sapiens,9606,Homo_sapiens,1
-TNFRSF10D,DCR2,Homo sapiens,9606,Homo_sapiens,1
-TNFRSF11B,OPG,Homo sapiens,9606,Homo_sapiens,1
+TNFRSF10A,DR4,Homo sapiens,9606,Homo_sapiens,1,TNFRSF10A
+TNFRSF10B,DR5,Homo sapiens,9606,Homo_sapiens,1,TNFRSF10B
+TNFRSF10C,DCR1,Homo sapiens,9606,Homo_sapiens,1,TNFRSF10C
+TNFRSF10D,DCR2,Homo sapiens,9606,Homo_sapiens,1,TNFRSF10D
+TNFRSF11B,OPG,Homo sapiens,9606,Homo_sapiens,1,TNFRSF11B
 
 
-TNFRSF10A,DR4,Pan troglodytes,9598,Pan_troglodytes,1
-TNFRSF10B,DR5,Pan troglodytes,9598,Pan_troglodytes,1
-TNFRSF10C,DCR1,Pan troglodytes,9598,Pan_troglodytes,1
-TNFRSF10D,DCR2,Pan troglodytes,9598,Pan_troglodytes,1
-TNFRSF11B,OPG,Pan troglodytes,9598,Pan_troglodytes,1
+TNFRSF10A,DR4,Pan troglodytes,9598,Pan_troglodytes,1,TNFRSF10A
+TNFRSF10B,DR5,Pan troglodytes,9598,Pan_troglodytes,1,TNFRSF10B
+TNFRSF10C,DCR1,Pan troglodytes,9598,Pan_troglodytes,1,TNFRSF10C
+TNFRSF10D,DCR2,Pan troglodytes,9598,Pan_troglodytes,1,TNFRSF10D
+TNFRSF11B,OPG,Pan troglodytes,9598,Pan_troglodytes,1,TNFRSF11B
 
 
-TNFRSF10A,DR4,Mus musculus,10090,Mus_musculus,1
-TNFRSF10B,DR5,Mus musculus,10090,Mus_musculus,1
-TNFRSF10C,DCR1,Mus musculus,10090,Mus_musculus,1
-TNFRSF10D,DCR2,Mus musculus,10090,Mus_musculus,1
-TNFRSF11B,OPG,Mus musculus,10090,Mus_musculus,1
+TNFRSF10A,DR4,Mus musculus,10090,Mus_musculus,1,Tnfrsf10b
+TNFRSF10B,DR5,Mus musculus,10090,Mus_musculus,1,Tnfrsf10b
+TNFRSF10C,DCR1,Mus musculus,10090,Mus_musculus,1,Tnfrsf10b
+TNFRSF10D,DCR2,Mus musculus,10090,Mus_musculus,1,Tnfrsf10b
+TNFRSF11B,OPG,Mus musculus,10090,Mus_musculus,1,Tnfrsf11b
