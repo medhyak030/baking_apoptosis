@@ -43,3 +43,6 @@ GitHub
 Develop a reproducible computational framework capable of analysing TRAIL receptor architecture, sequence conservation and functional variation while directly supporting the biological hypotheses developed throughout this project.
 
 Future versions may extend the framework to include structural modelling, mutation prediction, evolutionary analysis and other computational approaches as the project evolves.
+
+### Working Hypothesis
+The structural and functional behaviour of TRAIL receptors is constrained by their evolutionary sequence architecture. Functionally important regions should be more strongly conserved, while regions with greater structural flexibility may tolerate greater sequence variation. Cross-species differences, particularly differences in orthological relationships between human and mouse receptors, must therefore be considered when interpreting conservation and mutation patterns.
