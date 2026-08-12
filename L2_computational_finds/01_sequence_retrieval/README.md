@@ -21,23 +21,23 @@ The project focuses on DR4 (TNFRSF10A), DR5 (TNFRSF10B), DcR1
     `data/raw/<species>/`.
 
 ## Output
-
 The raw FASTA files are the sequence inputs for later computational
 stages. Raw sequences are kept separate from processed alignments and
 annotations.
 
-## Important limitation
+### Question
+Can the TRAIL receptor family be treated as a one-to-one equivalent set of receptors across human, chimpanzee, and mouse?
 
-The receptor family should not automatically be treated as perfectly
-one-to-one across species. In particular, the mouse TNFRSF10 family
-requires explicit orthology consideration rather than assuming that
-every human receptor has an equivalent mouse receptor.
+### Working Hypothesis
 
-This limitation will be retained as a scientific consideration for the
-final hypothesis.
+The TRAIL receptor family should not automatically be assumed to have a perfect one-to-one correspondence across species. Human and chimpanzee receptor identities can be compared using established orthological relationships, whereas the mouse TNFRSF10 receptor repertoire requires explicit orthology consideration.
 
-## Current status
+Therefore, receptor names or similar family membership alone should not be treated as sufficient evidence that two sequences represent the same evolutionary receptor.
 
-Sequence retrieval and FASTA downloading have been completed before the
-conservation-score stage.
+### Interpretation
 
+The sequence-retrieval stage therefore does more than obtain FASTA sequences. It establishes the biological identity of each sequence before it is used in downstream comparisons.
+
+MGI's vertebrate homology framework distinguishes stringent one-to-one orthology from more complex homology relationships, making orthology an explicit consideration rather than an assumption.
+
+This is particularly important for the TNFRSF10 family because the human TRAIL receptor system contains DR4/TNFRSF10A, DR5/TNFRSF10B, DcR1/TNFRSF10C, and DcR2/TNFRSF10D, while receptor repertoire and nomenclature differ between species.

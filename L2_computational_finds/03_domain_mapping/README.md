@@ -28,15 +28,40 @@ interpretation. Instead of treating the protein as one continuous
 sequence, later analyses can ask whether conservation or variation is
 concentrated in particular regions.
 
-## Important distinction
+## What the Domains Do
 
+Different regions of a receptor perform different steps in the
+signalling process.
+
+- **Extracellular domain:** interacts with the ligand and helps determine
+  ligand recognition and receptor binding.
+- **Cysteine-rich regions:** contribute to the structural organization of
+  the extracellular receptor and its ligand-binding surface.
+- **Transmembrane region:** anchors the receptor in the cell membrane and
+  helps position receptors for clustering after ligand binding.
+- **Intracellular death domain:** in death receptors such as DR4 and DR5,
+  provides the signalling interface required for recruitment of
+  intracellular signalling proteins such as FADD and formation of the
+  DISC.
+
+These regions therefore contribute to different stages of TRAIL-mediated
+apoptosis:
+
+**TRAIL binding → receptor clustering → DISC formation → caspase
+activation → apoptosis**
+
+A change in a particular region may therefore have a different
+consequence depending on its structural and functional role.
+
+## Important distinction
 A UniProt `Region` or `Domain` annotation should not automatically be
 treated as equivalent to a specific mechanistic functional domain. The
 annotation description and biological context must be considered before
 assigning a function.
 
-## Current status
-
-Domain/feature retrieval and positional extraction have been completed.
-The next step after documentation is quantitative conservation analysis,
-so this README does not claim conservation results.
+## Interpretation
+Domain mapping allows sequence-level observations to be connected to
+the mechanism of apoptosis. It provides the structural context needed
+to determine whether conserved or variable sequence positions occur in
+regions involved in ligand recognition, membrane organization, or
+intracellular death signalling.

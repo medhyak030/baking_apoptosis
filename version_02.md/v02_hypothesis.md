@@ -28,6 +28,11 @@ Human TNFRSF10A/DR4 = mouse TNFRSF10A/DR4
 
 ## Layer 2
 
+
+### General Hypothesis
+The TRAIL receptor family does not necessarily maintain a simple one-to-one receptor correspondence across species. In particular, the mouse TNFRSF10 receptor repertoire requires explicit orthology consideration. This may influence the interpretation of sequence alignment, structural-domain correspondence, conservation scores, and mutation patterns across species.
+
+
 ### Question3: Human–Mouse Sequence Assumption
 If human and mouse receptors are not always one-to-one orthologues, how should sequence similarity between them be interpreted?
 

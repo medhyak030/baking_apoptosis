@@ -21,21 +21,18 @@ receptors.
 
 ## Interpretation
 
-An aligned FASTA is not yet a conservation score. It is the positional
-framework from which conservation can later be calculated.
+MAFFT provides the positional framework for comparing the retrieved sequences, but the biological meaning of that comparison depends on their orthological relationship.
 
--   Identical residues can occupy the same column.
--   Substitutions show sequence differences between species.
--   Gaps (`-`) represent alignment insertions/deletions.
--   Conserved blocks can suggest sequence constraint, but quantitative
-    conservation must be calculated separately.
+- Identical residues indicate matching amino acids at an aligned position.
+- Substitutions indicate sequence differences between the compared proteins.
+- Gaps (`-`) indicate alignment insertions or deletions.
+- Conserved regions provide candidates for evolutionary constraint, but require quantitative analysis in 2.4.
+
+Thus, the alignment establishes **where sequences correspond**, while the subsequent analyses determine **what those correspondences mean biologically**.
 
 ## Current status
-
 The alignment workflow has been corrected so that all five receptor
 inputs are processed when the corresponding FASTA files exist.
 
 Intended outputs: - `DR4_aligned.fasta` - `DR5_aligned.fasta` -
 `DCR1_aligned.fasta` - `DCR2_aligned.fasta` - `OPG_aligned.fasta`
-
-No conservation score has been calculated yet.
